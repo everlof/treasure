@@ -8,6 +8,7 @@
     "picture": "http://placehold.it/32x32",
     "age": 34,
     "eyeColor": "brown",
+    "secret_production_key": "e1ephant919",
     "name": "Cecelia Frank",
     "gender": "female",
     "company": "EARTHPURE",
